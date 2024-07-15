@@ -1,0 +1,28 @@
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    background-color: coral;
+    background: linear-gradient(top, blue, rgb(124,210,212));
+    background:-webkit-linear-gradient(top, blue, rgb(124,210,212));
+    background: -ms-linear-gradient(top, blue, rgb(124,210,212));
+    background: -o-linear-gradient(top, blue, rgb(124,210,212));
+    width: 50%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -o-border-radius: 30px;
+    margin: 40px auto;
+    color:rgb(133, 42, 42);
+    box-shadow: grey 50px 50px 15 px;
+}
+
+
+.imagen{
+    width: 200px;
+    height: 130px;
+    padding: 4px;
+    border: 2px solid black;
+    float:left;
+    margin: 100px 10px 100px 10px;
+    
+}
